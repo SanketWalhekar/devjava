@@ -1,4 +1,4 @@
-public class sanket
+public class job2
   {
   public static void main(String [] args)
     {
